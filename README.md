@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @buejoulmnq489
-- 👀 I’m interested in 
-- 🌱 I’m currently learning html and python
+- Hi, I’m @buejoulmnq489
+- I wont give out any personal information
+- I’m interested in coding in html, css, and c++
+- I’m currently learning html and python
 
 <!---
 buejoulmnq489/buejoulmnq489 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
